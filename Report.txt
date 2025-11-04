@@ -1,0 +1,20 @@
+Task 7 — Identifying and Removing Suspicious Chrome Extensions
+
+Introduction
+
+Web browsers often rely on extensions to enhance functionality, but not all extensions are secure. Some may contain malicious code that can compromise privacy, track user activity, or degrade system performance. This task aimed to identify and remove such suspicious extensions from Google Chrome to ensure a secure and optimized browsing environment.
+
+Implementation
+
+The process began by accessing the extensions management page through the command chrome://extensions/ in the browser’s address bar.
+All installed extensions were reviewed one by one, checking their permissions, developer information, and credibility on the Chrome Web Store. Particular attention was given to extensions that requested excessive permissions such as “read and change data on all websites” or those installed without explicit consent.
+
+Any extensions deemed suspicious or unnecessary were first disabled for observation. If disabling resulted in improved browser performance, they were permanently removed. Chrome’s synchronization feature for extensions was also turned off to prevent reinstallation through the connected Google account. Screenshots and system observations were recorded throughout the process for documentation.
+
+Observations
+
+After removing the unwanted extensions, the browser showed noticeably faster load times and reduced background CPU usage. Pop-ups and unwanted advertisements were eliminated. The overall browsing experience became smoother and more secure.
+
+Conclusion
+
+Through this exercise, I learned how even minor browser add-ons can pose significant security risks if left unchecked. Regularly reviewing and managing installed extensions helps maintain both privacy and performance. This task improved my understanding of browser security practices and responsible extension management.
