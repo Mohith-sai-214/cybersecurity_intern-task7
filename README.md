@@ -44,4 +44,3 @@ Browser Extensions, Permissions, Malware, Browsing Security, Privacy
 
 ### 📎 Status
 ✅ Task Completed Successfully  
-📤 GitHub Repo: *(Add link when you upload)*
